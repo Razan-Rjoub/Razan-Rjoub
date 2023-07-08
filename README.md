@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/razan rjoub](https://www.linkedin.com/feed/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="razan rjoub" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/razan-rjoub-40a10721a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="razan rjoub" height="30" width="40" /></a>
 <a href="https://instagram.com/razan al-rjoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="razan al-rjoub" height="30" width="40" /></a>
 <a href="https://discord.gg/razanalrjoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="razanalrjoub" height="30" width="40" /></a>
 </p>
