@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/razan-rjoub-40a10721a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="razan rjoub" height="30" width="40" /></a>
 <a href="https://www.instagram.com/r.alrjoub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="razan al-rjoub" height="30" width="40" /></a>
-<a href="razanalrjoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="razanalrjoub" height="30" width="40" /></a>
+<a href="https://discord.com/channels/1114806857865900153/1114807255389458432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="razanalrjoub" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
