@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Razan</h1>
 <h3 align="center">Software Engineering</h3>
-<img align="right" alt="Coding" width="500"  src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/2a991c104600841.5f66ba42edf6a.gif" style:"margin-top:400;">
+<img align="right" alt="Coding" width="500"  src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/2a991c104600841.5f66ba42edf6a.gif" style:"margin:400;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razan-rjoub&label=Profile%20views&color=0e75b6&style=flat" alt="razan-rjoub" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
