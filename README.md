@@ -21,8 +21,8 @@
    <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="CSS" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
 </a>
- <a href="" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/Razan-Rjoub/Razan-Rjoub/assets/111699095/c236a619-f051-494d-b305-f5f37ad3e104)
-" alt="xd" width="40" height="40"/> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI8V6zVdPNwcGt_6X3uyx9Vf6SuVqqeflPrwTPeqmZgOgygBUcXymh9ZF2Mm-gPxSKJBw&usqp=CAU
+" alt="JS" width="40" height="40"/> 
 
 </a></p>
 
